@@ -60,6 +60,7 @@ body {
   border-radius: 5px;
   font-size: 16px;
   line-height: 1.5;
+  cursor: pointer;
 }
 .order-button:hover,
 .order-button:focus {
@@ -77,6 +78,9 @@ body {
   font-size: 16px;
   color: #434455;
   line-height: 1.5;
+}
+.section3 {
+  background-color: #F4F4FD;
 }
 .section-header {
   text-align: center;
